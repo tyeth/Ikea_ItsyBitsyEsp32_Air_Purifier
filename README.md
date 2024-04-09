@@ -1,7 +1,11 @@
-
 # ItsyBitsy ESP32 IKEA Fornuftig Air Cleaner v2 Noise Adjustable
 
 This project integrates air quality data from Adafruit IO (using the Good-enough Air Quality project) with a custom air quality monitoring and adjustment system developed using CircuitPython on a microcontroller platform. It aims to provide a real-time air quality monitoring and adjustment solution, enhancing environmental conditions based on air quality data, while respecting desired noise levels.
+
+
+See matching write-up / photos / note on Adafruit-Playground:
+
+[https://adafruit-playground.com/u/tyeth/pages/ikea-fornufig-air-purifier-v2-custom-fan-speed-controller-blinkenlights](https://adafruit-playground.com/u/tyeth/pages/ikea-fornufig-air-purifier-v2-custom-fan-speed-controller-blinkenlights)
 
 ## Installation
 
